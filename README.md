@@ -1,4 +1,7 @@
 # PROYECTOFINAL
+
+# Projecto BA multiplica 
+
 Esta es una pagina web con un cv personal donde se intenta  afianzar y vincular los conocimientos teóricos y prácticos vistos en las clases de programacion web inicial.
 
 Aqui encontraran:
@@ -12,3 +15,13 @@ Aqui encontraran:
 
 
 * El area de projectos es solo un ejemplo no realice esas paginas web*
+Aqui pueden ver la pagina web https://miwakura.github.io/Proyectofinal/
+
+
+
+
+## Authors
+
+- [@Miwakura](https://www.github.com/Miwakura)
+
+
